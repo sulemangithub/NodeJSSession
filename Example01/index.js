@@ -1,3 +1,4 @@
+/*This is synchronous processing*/
 
 function order(orderNumber)
 {

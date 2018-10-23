@@ -1,3 +1,4 @@
+/*This is asynchronous processing*/
 
 function order(orderNumber,cb)
 {
